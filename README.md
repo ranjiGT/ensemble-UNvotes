@@ -1,0 +1,2 @@
+# ensemble-UNvotes
+Since 1946, all member states of the United Nations have come together at the United Nations General Assembly to discuss and vote on resolutions, among other things. Currently 193 states belong to the United Nations. Each of these member states has exactly one vote in the General Assembly’s resolution votes on issues such as disarmament, international security, humanitarian aid and human rights.

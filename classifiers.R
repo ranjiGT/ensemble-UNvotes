@@ -36,7 +36,7 @@ tidy(lm_fit)
 summary(lm_fit)
 
 # Number of resolution votes
-length(unique(votes$rcid))
+num_votes <- length(unique(votes$rcid))
 
 # Countries that have taken part in at least 70% of all votes
 countries <- votes %>%
